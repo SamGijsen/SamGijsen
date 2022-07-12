@@ -1,4 +1,4 @@
-Hi, I’m @SamGijsen! I'm a PhD Candidate at the Neurocomputation and Neuroimaging Unit, FU Berlin. I'm interested in probabilistic inference in the brain, Bayesian statistics, reinforcement learning and deep computation.
+Hi there, I’m Sam - I'm a PhD Candidate at the Neurocomputation and Neuroimaging Unit, FU Berlin. I'm interested in probabilistic inference in the brain, Bayesian statistics, reinforcement learning and deep computation.
 
 
 <!---
