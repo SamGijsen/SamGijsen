@@ -1,4 +1,4 @@
-Hi there, I’m Sam - I'm a postdoctoral researcher at Charité, Berlin in deep learning for neuroimaging data. I'm interested in self-supervised learning, probabilistic inference (in and outside the brain), and world models.
+Hi there, I’m Sam - I'm a deep learning researcher at Tübingen AI Center / Hertie AI. I research multimodal representation learning and build foundation models for neural and physiological time series. 
 
 
 <!---
